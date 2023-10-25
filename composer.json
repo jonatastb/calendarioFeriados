@@ -1,0 +1,15 @@
+{
+    "name": "jonatas.bueno/calendario-feriados",
+    "autoload": {
+        "psr-4": {
+            "JonatasBueno\\CalendarioFeriados\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JonatasTB",
+            "email": "101901086+jonatastb@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
